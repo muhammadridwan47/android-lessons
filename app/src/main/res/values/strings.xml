@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="profile_name">Ardian</string>
+    <string name="description">hello world</string>
+</resources>
